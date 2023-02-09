@@ -1,0 +1,11 @@
+numpy==1.22.4
+xgboost==1.6.1
+pandas==1.4.1
+scipy==1.7.3
+streamlit==1.17.0
+xlsxwriter==3.0.3
+joblib==1.1.0
+openpyxl==3.0.9
+scikit-learn==1.1.1
+sklego
+lightgbm==3.3.5
